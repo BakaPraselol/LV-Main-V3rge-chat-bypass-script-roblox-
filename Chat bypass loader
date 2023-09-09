@@ -1,1 +1,7 @@
+--[[ Latest update (v1.5) = 9.9.2023
+
+                 Join the discord, gamers!! "https://discord.gg/2YsHJfZKTD"
+
+--]]
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BakaPraselol/MRCBV4LSB4KRS/main/Loader"))()
