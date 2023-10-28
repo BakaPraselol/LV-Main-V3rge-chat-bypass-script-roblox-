@@ -1,6 +1,5 @@
---[[ Latest update (v1.29) = 27.9.2023
-
-                 Join the discord, gamers!! "https://discord.gg/2YsHJfZKTD"
+--[[ Latest update (v1.27, thats this one) = 28.10.2023
+(R.i.p pc exploiting)                 Join the discord, gamers!! "https://discord.gg/2YsHJfZKTD"
 --]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BakaPraselol/MRCBV4LSB4KRS/main/Loader"))()
