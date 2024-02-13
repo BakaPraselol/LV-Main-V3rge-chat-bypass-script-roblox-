@@ -1,5 +1,5 @@
 --[[ Latest update (v1.3.1) = 2.13.2024 (Mini update)
-(R.i.p pc exploiting)     
+(R.I.P PC exploiting)      
 --]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BakaPraselol/MRCBV4LSB4KRS/main/Loader"))()
